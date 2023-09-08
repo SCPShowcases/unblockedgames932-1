@@ -3,21 +3,18 @@ body {
 }
 p {
     color: darkslategrey;
-    text-align: center;
 }
 h1 {
     color: darkslategrey;
     text-decoration: underline;
-    text-align: center;
 }
 h2 {
     color: darkslategrey;
     text-decoration: underline;
-    text-align: center;
 }
 img {
     border-radius: -10px 10px;
-    border: rgb(0, 0, 0);
+    border: orange;
     height: 100px;
     width: 100px;
 }
